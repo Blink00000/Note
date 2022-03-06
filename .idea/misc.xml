@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/26056/Desktop/android/note1/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/26056/Desktop/android/note1/app/src/main/res/layout/activity_main.xml" value="0.12681159420289856" />
+        <entry key="..\:/Users/26056/Desktop/android/note1/app/src/main/res/layout/activity_note_content.xml" value="0.12681159420289856" />
+        <entry key="..\:/Users/26056/Desktop/android/note1/app/src/main/res/layout/news_content.xml" value="0.14513677811550152" />
+        <entry key="..\:/Users/26056/Desktop/android/note1/app/src/main/res/layout/note_content.xml" value="0.2848731884057971" />
+        <entry key="..\:/Users/26056/Desktop/android/note1/app/src/main/res/layout/note_content_frag.xml" value="0.22" />
+        <entry key="..\:/Users/26056/Desktop/android/note1/app/src/main/res/layout/note_item.xml" value="0.12681159420289856" />
+        <entry key="..\:/Users/26056/Desktop/android/note1/app/src/main/res/layout/note_menu_frag.xml" value="0.22" />
+        <entry key="..\:/Users/26056/Desktop/android/note1/app/src/main/res/layout/right_static.xml" value="0.12681159420289856" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

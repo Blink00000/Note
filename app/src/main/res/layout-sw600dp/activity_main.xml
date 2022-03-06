@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <View
+        android:id="@+id/divider3"
+        android:layout_width="3dp"
+        android:layout_height="match_parent"
+        android:background="?android:attr/listDivider" />
+
+    <fragment
+        android:id="@+id/left_fragment"
+        android:layout_width="0dp"
+        android:name="com.example.note1.NoteMenuFragment"
+        android:layout_height="match_parent"
+        android:layout_weight="1"></fragment>
+
+    <View
+        android:id="@+id/divider2"
+        android:layout_width="3dp"
+        android:layout_height="match_parent"
+        android:background="?android:attr/listDivider" />
+
+    <FrameLayout
+        android:id="@+id/right_fragment"
+        android:layout_width="0dp"
+        android:name="com.example.note1.RightStaticFragment"
+        android:layout_height="match_parent"
+        android:layout_weight="1"></FrameLayout>
+
+    <View
+        android:id="@+id/divider5"
+        android:layout_width="3dp"
+        android:layout_height="match_parent"
+        android:background="?android:attr/listDivider" />
+
+</LinearLayout>
