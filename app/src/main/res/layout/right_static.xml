@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center"
-        android:text="笔记本了啦QAQ"
+        android:text="笔记本"
         android:textSize="40dp" />
 
 </LinearLayout>
